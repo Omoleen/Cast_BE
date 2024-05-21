@@ -1,0 +1,79 @@
+[
+  {
+    "fields": {
+      "content_id": "d9913508-961c-42db-94cf-d5ae9d22290c",
+      "course_id": "81067dbe-c269-4c5d-8388-31dee27c93e2",
+      "created_at": "2023-07-31T00:00:00Z",
+      "order": 0,
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "courses.coursecontent",
+    "pk": "29cee3c6-a333-4693-bd10-c4dc6d96ee57"
+  },
+  {
+    "fields": {
+      "content_id": "31ee6c93-f825-4110-81f8-03efc55457a7",
+      "course_id": "81067dbe-c269-4c5d-8388-31dee27c93e2",
+      "created_at": "2023-07-31T00:00:00Z",
+      "order": 1,
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "courses.coursecontent",
+    "pk": "31ee6c93-f825-4110-81f8-03efc55457a7"
+  },
+  {
+    "fields": {
+      "content_id": "86a64c60-6684-48b4-81e0-1b2137e5a8c1",
+      "course_id": "81067dbe-c269-4c5d-8388-31dee27c93e2",
+      "created_at": "2023-07-31T00:00:00Z",
+      "order": 2,
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "courses.coursecontent",
+    "pk": "86a64c60-6684-48b4-81e0-1b2137e5a8c1"
+  },
+  {
+    "fields": {
+      "content_id": "ebba7eeb-f5f0-49e5-ad35-601a80fafdfa",
+      "course_id": "b9206353-3ca6-45d6-8f9e-c1bcade1f9d8",
+      "created_at": "2023-07-31T00:00:00Z",
+      "order": 0,
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "courses.coursecontent",
+    "pk": "19aa7937-9590-4c55-8a9f-e32baca82821"
+  },
+  {
+    "fields": {
+      "content_id": "401bb690-7abf-4059-92d3-0ab2a1120c8f",
+      "course_id": "b9206353-3ca6-45d6-8f9e-c1bcade1f9d8",
+      "created_at": "2023-07-31T00:00:00Z",
+      "order": 1,
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "courses.coursecontent",
+    "pk": "9c88a11f-b987-4291-b977-e4e73e70976c"
+  },
+  {
+    "fields": {
+      "content_id": "00517e6d-3087-42cd-ae72-d054e809cdd9",
+      "course_id": "b9206353-3ca6-45d6-8f9e-c1bcade1f9d8",
+      "created_at": "2023-07-31T00:00:00Z",
+      "order": 2,
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "courses.coursecontent",
+    "pk": "00517e6d-3087-42cd-ae72-d054e809cdd9"
+  },
+  {
+    "fields": {
+      "content_id": "4b841144-714d-44e6-9325-a812cea3d022",
+      "course_id": "b9206353-3ca6-45d6-8f9e-c1bcade1f9d8",
+      "created_at": "2023-07-31T00:00:00Z",
+      "order": 3,
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "courses.coursecontent",
+    "pk": "06750c84-3a5a-4ef1-97da-1859b7b9011e"
+  }
+]

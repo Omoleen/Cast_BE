@@ -1,0 +1,86 @@
+[
+  {
+    "fields": {
+      "content_id": "ebba7eeb-f5f0-49e5-ad35-601a80fafdfa",
+      "created_at": "2023-07-31T00:00:00Z",
+      "is_public": true,
+      "text": "What is the capital of India?",
+      "type": "singlechoice",
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "quiz.question",
+    "pk": "0c7d717a-39db-4e12-b50d-4110ff948a51"
+  },
+  {
+    "fields": {
+      "content_id": "ebba7eeb-f5f0-49e5-ad35-601a80fafdfa",
+      "created_at": "2023-07-31T00:00:00Z",
+      "is_public": true,
+      "text": "What is the capital of Nigeria?",
+      "type": "singlechoice",
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "quiz.question",
+    "pk": "47afa206-7d0f-4122-a318-d03404310408"
+  },
+  {
+    "fields": {
+      "content_id": "d9913508-961c-42db-94cf-d5ae9d22290c",
+      "created_at": "2023-07-31T00:00:00Z",
+      "is_public": true,
+      "text": "What is the capital of Ghana?",
+      "type": "singlechoice",
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "quiz.question",
+    "pk": "2576dfc2-3872-42e6-9a80-b656de689c09"
+  },
+  {
+    "fields": {
+      "content_id": "d9913508-961c-42db-94cf-d5ae9d22290c",
+      "created_at": "2023-07-31T00:00:00Z",
+      "is_public": true,
+      "text": "What is the capital of Botswana?",
+      "type": "singlechoice",
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "quiz.question",
+    "pk": "1fa3eeaf-0832-4e0d-bdc6-ac0ec2489811"
+  },
+  {
+    "fields": {
+      "content_id": "4b841144-714d-44e6-9325-a812cea3d022",
+      "created_at": "2023-07-31T00:00:00Z",
+      "is_public": true,
+      "text": "What is the capital of Kenya?",
+      "type": "singlechoice",
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "quiz.question",
+    "pk": "a6eabcc9-134d-4dd3-b344-3b254f16510f"
+  },
+  {
+    "fields": {
+      "content_id": "4b841144-714d-44e6-9325-a812cea3d022",
+      "created_at": "2023-07-31T00:00:00Z",
+      "is_public": true,
+      "text": "What is the capital of France?",
+      "type": "singlechoice",
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "quiz.question",
+    "pk": "0db7dfd7-dbc1-4bc1-b01c-cac812bab90a"
+  },
+  {
+    "fields": {
+      "content_id": "86a64c60-6684-48b4-81e0-1b2137e5a8c1",
+      "created_at": "2023-07-31T00:00:00Z",
+      "is_public": true,
+      "text": "What is the capital of Britain?",
+      "type": "singlechoice",
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "quiz.question",
+    "pk": "c59c2fed-9dbf-4ac2-9919-9aae6bb4a882"
+  }
+]

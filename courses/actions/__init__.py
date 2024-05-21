@@ -1,0 +1,1 @@
+from .course import update_course_thumbnails_duration

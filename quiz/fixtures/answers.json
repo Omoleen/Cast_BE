@@ -1,0 +1,164 @@
+[
+  {
+    "fields": {
+      "created_at": "2023-07-31T00:00:00Z",
+      "question_id": "0c7d717a-39db-4e12-b50d-4110ff948a51",
+      "text": "Bangladesh",
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "quiz.questionoption",
+    "pk": "bf696582-dd09-41cf-9959-4080d16149ba"
+  },
+  {
+    "fields": {
+      "created_at": "2023-07-31T00:00:00Z",
+      "is_correct": true,
+      "question_id": "0c7d717a-39db-4e12-b50d-4110ff948a51",
+      "text": "New Delhi",
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "quiz.questionoption",
+    "pk": "0eccd925-ad3b-4aed-95f2-49120a73d660"
+  },
+  {
+    "fields": {
+      "created_at": "2023-07-31T00:00:00Z",
+      "is_correct": true,
+      "question_id": "47afa206-7d0f-4122-a318-d03404310408",
+      "text": "abuja",
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "quiz.questionoption",
+    "pk": "ae7cf79e-f174-4aa1-afdf-a6b00ab10512"
+  },
+  {
+    "fields": {
+      "created_at": "2023-07-31T00:00:00Z",
+      "is_correct": false,
+      "question_id": "47afa206-7d0f-4122-a318-d03404310408",
+      "text": "lagos",
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "quiz.questionoption",
+    "pk": "d3617713-c9fb-4705-b788-b4479d9beb08"
+  },
+  {
+    "fields": {
+      "created_at": "2023-07-31T00:00:00Z",
+      "is_correct": true,
+      "question_id": "2576dfc2-3872-42e6-9a80-b656de689c09",
+      "text": "Accra",
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "quiz.questionoption",
+    "pk": "abe0f76d-b2c8-4073-950a-7d6ec81a4a21"
+  },
+  {
+    "fields": {
+      "created_at": "2023-07-31T00:00:00Z",
+      "question_id": "2576dfc2-3872-42e6-9a80-b656de689c09",
+      "text": "Bono Region",
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "quiz.questionoption",
+    "pk": "70466f82-e218-4b82-88bb-35a2f08c800d"
+  },
+  {
+    "fields": {
+      "created_at": "2023-07-31T00:00:00Z",
+      "is_correct": true,
+      "question_id": "1fa3eeaf-0832-4e0d-bdc6-ac0ec2489811",
+      "text": "Gaborone",
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "quiz.questionoption",
+    "pk": "94d3c4f8-b5ac-4fb9-86a2-b20e536a9098"
+  },
+  {
+    "fields": {
+      "created_at": "2023-07-31T00:00:00Z",
+      "question_id": "1fa3eeaf-0832-4e0d-bdc6-ac0ec2489811",
+      "text": "Francistown",
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "quiz.questionoption",
+    "pk": "55dcc93c-d9ff-41dc-9009-26ad1d2689e3"
+  },
+  {
+    "fields": {
+      "created_at": "2023-07-31T00:00:00Z",
+      "is_correct": true,
+      "question_id": "a6eabcc9-134d-4dd3-b344-3b254f16510f",
+      "text": "Nairobi",
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "quiz.questionoption",
+    "pk": "470adc57-24a9-408e-af28-9f3ac5db663a"
+  },
+  {
+    "fields": {
+      "created_at": "2023-07-31T00:00:00Z",
+      "is_correct": false,
+      "question_id": "a6eabcc9-134d-4dd3-b344-3b254f16510f",
+      "text": "Lagos",
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "quiz.questionoption",
+    "pk": "ae76b8d2-3bc3-4ea8-b24d-c3c46fd782f3"
+  },
+  {
+    "fields": {
+      "created_at": "2023-07-31T00:00:00Z",
+      "is_correct": true,
+      "question_id": "0db7dfd7-dbc1-4bc1-b01c-cac812bab90a",
+      "text": "Paris",
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "quiz.questionoption",
+    "pk": "35a03b47-9246-4623-86d3-65a8bb8a82d1"
+  },
+  {
+    "fields": {
+      "created_at": "2023-07-31T00:00:00Z",
+      "is_correct": false,
+      "question_id": "0db7dfd7-dbc1-4bc1-b01c-cac812bab90a",
+      "text": "Lagos",
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "quiz.questionoption",
+    "pk": "7812a3f0-587e-4cbe-92e4-3ac766f81798"
+  },
+  {
+    "fields": {
+      "created_at": "2023-07-31T00:00:00Z",
+      "is_correct": false,
+      "question_id": "0db7dfd7-dbc1-4bc1-b01c-cac812bab90a",
+      "text": "Oyo",
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "quiz.questionoption",
+    "pk": "7012ad18-13ed-454b-9185-70eda08d142f"
+  },
+  {
+    "fields": {
+      "created_at": "2023-07-31T00:00:00Z",
+      "is_correct": false,
+      "question_id": "c59c2fed-9dbf-4ac2-9919-9aae6bb4a882",
+      "text": "Lagos",
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "quiz.questionoption",
+    "pk": "dcdbe1bb-ad8c-42dd-9c98-1dd3e6480696"
+  },
+  {
+    "fields": {
+      "created_at": "2023-07-31T00:00:00Z",
+      "is_correct": true,
+      "question_id": "c59c2fed-9dbf-4ac2-9919-9aae6bb4a882",
+      "text": "London",
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "quiz.questionoption",
+    "pk": "aadbe8a1-6961-4436-b4ed-881493ef35fc"
+  }
+]

@@ -1,0 +1,207 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Forgot Password</title>
+    <style>
+      body,
+      table,
+      td,
+      a {
+        -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+      }
+      table,
+      td {
+        mso-table-lspace: 0pt;
+        mso-table-rspace: 0pt;
+      }
+      img {
+        -ms-interpolation-mode: bicubic;
+      }
+
+      img {
+        border: 0;
+        height: auto;
+        line-height: 100%;
+        outline: none;
+        text-decoration: none;
+      }
+      table {
+        border-collapse: collapse !important;
+      }
+      body {
+        height: 100vh !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        width: 100% !important;
+      }
+
+      .email-container {
+        height: 100vh;
+        width: 100%;
+        max-width: 600px;
+        background: #ffffff;
+        margin: 0px auto;
+      }
+
+      .logo-row {
+        text-align: center;
+        padding: 20px 0;
+      }
+
+      .logo-small {
+        max-width: 180px;
+        vertical-align: middle;
+      }
+
+      .content {
+        font-size: 16px;
+        line-height: 24px;
+        color: #262641;
+        padding:  20px;
+      }
+
+      .footer {
+        background-color: #d6d9e1;
+        text-align: center;
+        padding: 20px;
+        font-size: 12px;
+        line-height: 18px;
+        color: #666;
+      }
+
+      .social-icons img {
+        width: 24px;
+        margin: 40px 5px 0px;
+      }
+
+      .strokes {
+        position: absolute;
+        bottom: 9.7rem;
+        right: 26rem;
+        width: 150px;
+      }
+      .logo {
+        max-width: 180px;
+        padding-left: 40px;
+
+      }
+
+      @media screen and (max-width: 600px) {
+        .email-container {
+          max-width: 100%;
+          padding: 10px;
+        }
+
+        .strokes {
+          top: 95%;
+          right: 0%; /* Closer to the edge on mobile */
+        }
+
+        .logo-small {
+          width: 38%;
+          max-height: 90px;
+          height: auto;
+        }
+
+        .logo {
+          max-width: 84px;
+          height: 30px;
+          padding-left: 9px;
+
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <table
+      role="presentation"
+      border="0"
+      cellpadding="0"
+      cellspacing="0"
+      width="100%"
+    >
+      <tr>
+        <td style="background-color: #f3f3f3">
+          <table
+            role="presentation"
+            class="email-container"
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+          >
+            <tr>
+              <td>
+                <img
+                  class="logo-small"
+                  src="https://aquila.blob.core.windows.net/castellum/email-small-logo.png"
+                  alt="Small Logo"
+                />
+                <img
+                class="logo"
+                  src="https://aquila.blob.core.windows.net/castellum/email-logo.png"
+                  alt="Logo"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td style="background-color: #ffffff">
+                <table
+                  role="presentation"
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                  width="100%"
+                >
+                  <tr>
+                    <td class="content">
+                      <strong>Hello {{name}},</strong>
+
+                      <p>
+                        Welcome to Castellum. The admin of {{organization}} has added you as an employee. Click here to complete your registration by creating your unique password.
+</p>
+
+                        <a class="button"
+                        href="{{invite_link}}"
+                        style="text-decoration: none;
+                              background-color: #fa1e51;
+                              color: #ffffff;
+                              padding: 8px 16px;
+                              border: #fa1e51 1px solid;
+                              border-radius: 4px;"
+                        >Create Password</a>
+                        <p>Or copy and paste the URL into your browser: <br/> <a
+                        href="{{invite_link}}"
+                        >{{invite_link}}</a>
+                        </p>
+                      <p>Cheers,</p>
+
+                      <p style="color: #FA1E51;">Team Castellum.</p>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td class="footer">
+                <!-- <img src="images/strokes.png" alt="Strokes" class="strokes"> -->
+                <div class="social-icons">
+                  <img src="https://aquila.blob.core.windows.net/castellum/fb.png" alt="Facebook" />
+                  <img src="https://aquila.blob.core.windows.net/castellum/ig.png" alt="Instagram" />
+                  <img src="https://aquila.blob.core.windows.net/castellum/x.png" alt="Twitter" />
+                  <img src="https://aquila.blob.core.windows.net/castellum/linkedin-small.png" alt="LinkedIn" />
+                </div>
+                <p>Help Center | Privacy Policy | Terms of service</p>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+
+  </body>
+</html>

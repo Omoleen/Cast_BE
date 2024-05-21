@@ -1,0 +1,28 @@
+[
+  {
+    "fields": {
+      "created_at": "2023-07-31T00:00:00Z",
+      "description": "This is the course description",
+      "is_public": true,
+      "learning_type": "general",
+      "name": "Phishing",
+      "organization": null,
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "courses.course",
+    "pk": "81067dbe-c269-4c5d-8388-31dee27c93e2"
+  },
+  {
+    "fields": {
+      "created_at": "2023-07-31T00:00:00Z",
+      "description": "This is the course description",
+      "is_public": true,
+      "learning_type": "specialized",
+      "name": "Social Engineering",
+      "organization": null,
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "courses.course",
+    "pk": "b9206353-3ca6-45d6-8f9e-c1bcade1f9d8"
+  }
+]

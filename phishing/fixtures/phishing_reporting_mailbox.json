@@ -1,0 +1,9 @@
+[
+  {
+    "fields": {
+      "active": true,
+      "name": "phishing-report-service",
+      "uri": "imap+tls://castellum%40evdmart.com:Madmax0010@imap.ionos.com:993"
+    }
+  }
+]

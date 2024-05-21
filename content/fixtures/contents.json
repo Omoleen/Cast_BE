@@ -1,0 +1,100 @@
+[
+  {
+    "fields": {
+      "created_at": "2023-07-31T00:00:00Z",
+      "description": "Understanding Threats and Vulnerabilities",
+      "is_public": true,
+      "learning_type": "specialized",
+      "path": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+      "title": "Introduction to Cybersecurity",
+      "type": "video",
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "content.content",
+    "pk": "ebba7eeb-f5f0-49e5-ad35-601a80fafdfa"
+  },
+  {
+    "fields": {
+      "created_at": "2023-07-31T00:00:00Z",
+      "description": "Best Practices for Online Privacy",
+      "is_public": true,
+      "learning_type": "general",
+      "path": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+      "title": "Securing Your Digital Footprint",
+      "type": "video",
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "content.content",
+    "pk": "d9913508-961c-42db-94cf-d5ae9d22290c"
+  },
+  {
+    "fields": {
+      "created_at": "2023-07-31T00:00:00Z",
+      "description": "Essential Practices for Safe Internet Usage",
+      "is_public": true,
+      "learning_type": "general",
+      "path": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+      "title": "Cyber Hygiene 101",
+      "type": "video",
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "content.content",
+    "pk": "31ee6c93-f825-4110-81f8-03efc55457a7"
+  },
+  {
+    "fields": {
+      "created_at": "2023-07-31T00:00:00Z",
+      "description": "Detecting and Preventing Cyber Attacks",
+      "is_public": true,
+      "learning_type": "specialized",
+      "path": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+      "title": "Defense Against Malware",
+      "type": "video",
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "content.content",
+    "pk": "401bb690-7abf-4059-92d3-0ab2a1120c8f"
+  },
+  {
+    "fields": {
+      "created_at": "2023-07-31T00:00:00Z",
+      "description": "Creating and Managing Secure Credentials",
+      "is_public": true,
+      "learning_type": "specialized",
+      "path": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+      "title": "The Importance of Strong Passwords",
+      "type": "video",
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "content.content",
+    "pk": "00517e6d-3087-42cd-ae72-d054e809cdd9"
+  },
+  {
+    "fields": {
+      "created_at": "2023-07-31T00:00:00Z",
+      "description": "Recognizing and Avoiding Manipulative Tactics",
+      "is_public": true,
+      "learning_type": "specialized",
+      "path": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+      "title": "Social Engineering Awareness",
+      "type": "video",
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "content.content",
+    "pk": "4b841144-714d-44e6-9325-a812cea3d022"
+  },
+  {
+    "fields": {
+      "created_at": "2023-07-31T00:00:00Z",
+      "description": "Safeguarding Information in Transit and Storage",
+      "is_public": true,
+      "learning_type": "general",
+      "path": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+      "title": "Data Encryption Demystified",
+      "type": "video",
+      "updated_at": "2023-12-21T12:40:26.820Z"
+    },
+    "model": "content.content",
+    "pk": "86a64c60-6684-48b4-81e0-1b2137e5a8c1"
+  }
+]

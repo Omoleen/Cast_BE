@@ -58,9 +58,9 @@ def send_phishing_email(
 
 @shared_task(
     name="Send email to an employee for phishing campaign",
-    max_retries=5,
-    autoretry_for=(Exception,),
-    retry_backoff=True,
+    # max_retries=5,
+    # autoretry_for=(Exception,),
+    # retry_backoff=True,
 )
 def phishing_campaign_send_email_task(employee_email: str, phishing_campaign_id: str):
     from .models import EmployeePhishingCampaign, PhishingCampaign, PhishingTemplate
